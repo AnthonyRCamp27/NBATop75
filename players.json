@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Kareem Abdul-Jabbar",
+        "points_per_game": "24.6",
+        "rebounds_per_game": "11.2",
+        "assists_per_game": "3.6",
+        "win_shares": "273.4"
+    },
+    {
+        "name": "Ray Allen",
+        "points_per_game": "18.9",
+        "rebounds_per_game": "4.1",
+        "assists_per_game": "3.4",
+        "win_shares": "145.1"
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "points_per_game": "23.9",
+        "rebounds_per_game": "9.9",
+        "assists_per_game": "5",
+        "win_shares": "120.8"
+    },
+    {
+        "name": "Carmelo Anthony",
+        "points_per_game": "22.5",
+        "rebounds_per_game": "6.2",
+        "assists_per_game": "2.7",
+        "win_shares": "108.5"
+    },
+    {
+        "name": "Tiny Archibald",
+        "points_per_game": "18.8",
+        "rebounds_per_game": "2.3",
+        "assists_per_game": "7.4",
+        "win_shares": "83.4"
+    },
+    {
+        "name": "Paul Arizin",
+        "points_per_game": "22.8",
+        "rebounds_per_game": "8.6",
+        "assists_per_game": "2.3",
+        "win_shares": "108.8"
+    },
+    {
+        "name": "Charles Barkley",
+        "points_per_game": "22.1",
+        "rebounds_per_game": "11.7",
+        "assists_per_game": "3.9",
+        "win_shares": "177.2"
+    },
+    {
+        "name": "Rick Barry",
+        "points_per_game": "23.2",
+        "rebounds_per_game": "6.5",
+        "assists_per_game": "5.1",
+        "win_shares": "93.4"
+    },
+    {
+        "name": "Elgin Baylor",
+        "points_per_game": "27.4",
+        "rebounds_per_game": "13.5",
+        "assists_per_game": "4.3",
+        "win_shares": "104.2"
+    },
+    {
+        "name": "Dave Bing",
+        "points_per_game": "20.3",
+        "rebounds_per_game": "3.8",
+        "assists_per_game": "6",
+        "win_shares": "68.8"
+    },
+    {
+        "name": "Larry Bird",
+        "points_per_game": "24.3",
+        "rebounds_per_game": "10",
+        "assists_per_game": "6.3",
+        "win_shares": "145.8"
+    },
+    {
+        "name": "Kobe Bryant",
+        "points_per_game": "25",
+        "rebounds_per_game": "5.2",
+        "assists_per_game": "4.7",
+        "win_shares": "172.7"
+    },
+    {
+        "name": "Wilt Chamberlain",
+        "points_per_game": "30.1",
+        "rebounds_per_game": "22.9",
+        "assists_per_game": "4.4",
+        "win_shares": "247.3"
+    },
+    {
+        "name": "Bob Cousy",
+        "points_per_game": "18.4",
+        "rebounds_per_game": "5.2",
+        "assists_per_game": "7.5",
+        "win_shares": "91.1"
+    },
+    {
+        "name": "Dave Cowens",
+        "points_per_game": "17.6",
+        "rebounds_per_game": "13.6",
+        "assists_per_game": "3.8",
+        "win_shares": "86.3"
+    },
+    {
+        "name": "Billy Cunningham",
+        "points_per_game": "20.8",
+        "rebounds_per_game": "10.1",
+        "assists_per_game": "4",
+        "win_shares": "63.2"
+    },
+    {
+        "name": "Stephen Curry",
+        "points_per_game": "24.7",
+        "rebounds_per_game": "4.7",
+        "assists_per_game": "6.4",
+        "win_shares": "143.1"
+    },
+    {
+        "name": "Anthony Davis",
+        "points_per_game": "24.1",
+        "rebounds_per_game": "10.7",
+        "assists_per_game": "2.6",
+        "win_shares": "118.8"
+    },
+    {
+        "name": "Dave DeBusschere",
+        "points_per_game": "16.1",
+        "rebounds_per_game": "11",
+        "assists_per_game": "2.9",
+        "win_shares": "60.8"
+    },
+    {
+        "name": "Clyde Drexler",
+        "points_per_game": "20.4",
+        "rebounds_per_game": "6.1",
+        "assists_per_game": "5.6",
+        "win_shares": "135.6"
+    },
+    {
+        "name": "Tim Duncan",
+        "points_per_game": "19",
+        "rebounds_per_game": "10.8",
+        "assists_per_game": "3",
+        "win_shares": "206.4"
+    },
+    {
+        "name": "Kevin Durant",
+        "points_per_game": "27.2",
+        "rebounds_per_game": "7",
+        "assists_per_game": "4.4",
+        "win_shares": "175.4"
+    },
+    {
+        "name": "Julius Erving",
+        "points_per_game": "22",
+        "rebounds_per_game": "6.7",
+        "assists_per_game": "3.9",
+        "win_shares": "106.2"
+    },
+    {
+        "name": "Patrick Ewing",
+        "points_per_game": "21",
+        "rebounds_per_game": "9.8",
+        "assists_per_game": "1.9",
+        "win_shares": "126.4"
+    },
+    {
+        "name": "Walt Frazier",
+        "points_per_game": "18.9",
+        "rebounds_per_game": "5.9",
+        "assists_per_game": "6.1",
+        "win_shares": "113.5"
+    },
+    {
+        "name": "Kevin Garnett",
+        "points_per_game": "17.8",
+        "rebounds_per_game": "10",
+        "assists_per_game": "3.7",
+        "win_shares": "191.4"
+    },
+    {
+        "name": "George Gervin",
+        "points_per_game": "26.2",
+        "rebounds_per_game": "4.6",
+        "assists_per_game": "2.8",
+        "win_shares": "88.1"
+    },
+    {
+        "name": "Hal Greer",
+        "points_per_game": "19.2",
+        "rebounds_per_game": "5",
+        "assists_per_game": "4",
+        "win_shares": "102.7"
+    },
+    {
+        "name": "James Harden",
+        "points_per_game": "24.1",
+        "rebounds_per_game": "5.6",
+        "assists_per_game": "7.2",
+        "win_shares": "174.7"
+    },
+    {
+        "name": "John Havlicek",
+        "points_per_game": "20.8",
+        "rebounds_per_game": "6.3",
+        "assists_per_game": "4.8",
+        "win_shares": "131.7"
+    },
+    {
+        "name": "Player",
+        "points_per_game": "PTS",
+        "rebounds_per_game": "TRB",
+        "assists_per_game": "AST",
+        "win_shares": "WS"
+    },
+    {
+        "name": "Elvin Hayes",
+        "points_per_game": "21",
+        "rebounds_per_game": "12.5",
+        "assists_per_game": "1.8",
+        "win_shares": "120.8"
+    },
+    {
+        "name": "Allen Iverson",
+        "points_per_game": "26.7",
+        "rebounds_per_game": "3.7",
+        "assists_per_game": "6.2",
+        "win_shares": "99"
+    },
+    {
+        "name": "LeBron James",
+        "points_per_game": "27",
+        "rebounds_per_game": "7.5",
+        "assists_per_game": "7.4",
+        "win_shares": "271.4"
+    },
+    {
+        "name": "Magic Johnson",
+        "points_per_game": "19.5",
+        "rebounds_per_game": "7.2",
+        "assists_per_game": "11.2",
+        "win_shares": "155.8"
+    },
+    {
+        "name": "Sam Jones",
+        "points_per_game": "17.7",
+        "rebounds_per_game": "4.9",
+        "assists_per_game": "2.5",
+        "win_shares": "92.3"
+    },
+    {
+        "name": "Michael Jordan",
+        "points_per_game": "30.1",
+        "rebounds_per_game": "6.2",
+        "assists_per_game": "5.3",
+        "win_shares": "214"
+    },
+    {
+        "name": "Jason Kidd",
+        "points_per_game": "12.6",
+        "rebounds_per_game": "6.3",
+        "assists_per_game": "8.7",
+        "win_shares": "138.6"
+    },
+    {
+        "name": "Kawhi Leonard",
+        "points_per_game": "20.1",
+        "rebounds_per_game": "6.4",
+        "assists_per_game": "3.1",
+        "win_shares": "102.7"
+    },
+    {
+        "name": "Damian Lillard",
+        "points_per_game": "25.1",
+        "rebounds_per_game": "4.3",
+        "assists_per_game": "6.7",
+        "win_shares": "118.4"
+    },
+    {
+        "name": "Jerry Lucas",
+        "points_per_game": "17",
+        "rebounds_per_game": "15.6",
+        "assists_per_game": "3.3",
+        "win_shares": "98.4"
+    },
+    {
+        "name": "Karl Malone",
+        "points_per_game": "25",
+        "rebounds_per_game": "10.1",
+        "assists_per_game": "3.6",
+        "win_shares": "234.6"
+    },
+    {
+        "name": "Moses Malone",
+        "points_per_game": "20.6",
+        "rebounds_per_game": "12.2",
+        "assists_per_game": "1.4",
+        "win_shares": "167.1"
+    },
+    {
+        "name": "Pete Maravich",
+        "points_per_game": "24.2",
+        "rebounds_per_game": "4.2",
+        "assists_per_game": "5.4",
+        "win_shares": "46.7"
+    },
+    {
+        "name": "Bob McAdoo",
+        "points_per_game": "22.1",
+        "rebounds_per_game": "9.4",
+        "assists_per_game": "2.3",
+        "win_shares": "89.1"
+    },
+    {
+        "name": "Kevin McHale",
+        "points_per_game": "17.9",
+        "rebounds_per_game": "7.3",
+        "assists_per_game": "1.7",
+        "win_shares": "113"
+    },
+    {
+        "name": "George Mikan",
+        "points_per_game": "23.1",
+        "rebounds_per_game": "13.4",
+        "assists_per_game": "2.8",
+        "win_shares": "108.7"
+    },
+    {
+        "name": "Reggie Miller",
+        "points_per_game": "18.2",
+        "rebounds_per_game": "3",
+        "assists_per_game": "3",
+        "win_shares": "174.4"
+    },
+    {
+        "name": "Earl Monroe",
+        "points_per_game": "18.8",
+        "rebounds_per_game": "3",
+        "assists_per_game": "3.9",
+        "win_shares": "77.4"
+    },
+    {
+        "name": "Steve Nash",
+        "points_per_game": "14.3",
+        "rebounds_per_game": "3",
+        "assists_per_game": "8.5",
+        "win_shares": "129.7"
+    },
+    {
+        "name": "Dirk Nowitzki",
+        "points_per_game": "20.7",
+        "rebounds_per_game": "7.5",
+        "assists_per_game": "2.4",
+        "win_shares": "206.3"
+    },
+    {
+        "name": "Shaquille O'Neal",
+        "points_per_game": "23.7",
+        "rebounds_per_game": "10.9",
+        "assists_per_game": "2.5",
+        "win_shares": "181.7"
+    },
+    {
+        "name": "Hakeem Olajuwon",
+        "points_per_game": "21.8",
+        "rebounds_per_game": "11.1",
+        "assists_per_game": "2.5",
+        "win_shares": "162.8"
+    },
+    {
+        "name": "Robert Parish",
+        "points_per_game": "14.5",
+        "rebounds_per_game": "9.1",
+        "assists_per_game": "1.4",
+        "win_shares": "147"
+    },
+    {
+        "name": "Chris Paul",
+        "points_per_game": "17",
+        "rebounds_per_game": "4.4",
+        "assists_per_game": "9.2",
+        "win_shares": "215.1"
+    },
+    {
+        "name": "Gary Payton",
+        "points_per_game": "16.3",
+        "rebounds_per_game": "3.9",
+        "assists_per_game": "6.7",
+        "win_shares": "145.5"
+    },
+    {
+        "name": "Bob Pettit",
+        "points_per_game": "26.4",
+        "rebounds_per_game": "16.2",
+        "assists_per_game": "3",
+        "win_shares": "136"
+    },
+    {
+        "name": "Paul Pierce",
+        "points_per_game": "19.7",
+        "rebounds_per_game": "5.6",
+        "assists_per_game": "3.5",
+        "win_shares": "150"
+    },
+    {
+        "name": "Scottie Pippen",
+        "points_per_game": "16.1",
+        "rebounds_per_game": "6.4",
+        "assists_per_game": "5.2",
+        "win_shares": "125.1"
+    },
+    {
+        "name": "Willis Reed",
+        "points_per_game": "18.7",
+        "rebounds_per_game": "12.9",
+        "assists_per_game": "1.8",
+        "win_shares": "74.9"
+    },
+    {
+        "name": "Oscar Robertson",
+        "points_per_game": "25.7",
+        "rebounds_per_game": "7.5",
+        "assists_per_game": "9.5",
+        "win_shares": "189.2"
+    },
+    {
+        "name": "Player",
+        "points_per_game": "PTS",
+        "rebounds_per_game": "TRB",
+        "assists_per_game": "AST",
+        "win_shares": "WS"
+    },
+    {
+        "name": "David Robinson",
+        "points_per_game": "21.1",
+        "rebounds_per_game": "10.6",
+        "assists_per_game": "2.5",
+        "win_shares": "178.7"
+    },
+    {
+        "name": "Dennis Rodman",
+        "points_per_game": "7.3",
+        "rebounds_per_game": "13.1",
+        "assists_per_game": "1.8",
+        "win_shares": "89.8"
+    },
+    {
+        "name": "Bill Russell",
+        "points_per_game": "15.1",
+        "rebounds_per_game": "22.5",
+        "assists_per_game": "4.3",
+        "win_shares": "163.5"
+    },
+    {
+        "name": "Dolph Schayes",
+        "points_per_game": "18.5",
+        "rebounds_per_game": "12.1",
+        "assists_per_game": "3.1",
+        "win_shares": "142.4"
+    },
+    {
+        "name": "Bill Sharman",
+        "points_per_game": "17.8",
+        "rebounds_per_game": "3.9",
+        "assists_per_game": "3",
+        "win_shares": "82.8"
+    },
+    {
+        "name": "John Stockton",
+        "points_per_game": "13.1",
+        "rebounds_per_game": "2.7",
+        "assists_per_game": "10.5",
+        "win_shares": "207.7"
+    },
+    {
+        "name": "Isiah Thomas",
+        "points_per_game": "19.2",
+        "rebounds_per_game": "3.6",
+        "assists_per_game": "9.3",
+        "win_shares": "80.7"
+    },
+    {
+        "name": "Nate Thurmond",
+        "points_per_game": "15",
+        "rebounds_per_game": "15",
+        "assists_per_game": "2.7",
+        "win_shares": "78"
+    },
+    {
+        "name": "Wes Unseld",
+        "points_per_game": "10.8",
+        "rebounds_per_game": "14",
+        "assists_per_game": "3.9",
+        "win_shares": "110.1"
+    },
+    {
+        "name": "Dwyane Wade",
+        "points_per_game": "22",
+        "rebounds_per_game": "4.7",
+        "assists_per_game": "5.4",
+        "win_shares": "120.7"
+    },
+    {
+        "name": "Bill Walton",
+        "points_per_game": "13.3",
+        "rebounds_per_game": "10.5",
+        "assists_per_game": "3.4",
+        "win_shares": "39.3"
+    },
+    {
+        "name": "Jerry West",
+        "points_per_game": "27",
+        "rebounds_per_game": "5.8",
+        "assists_per_game": "6.7",
+        "win_shares": "162.6"
+    },
+    {
+        "name": "Russell Westbrook",
+        "points_per_game": "21.2",
+        "rebounds_per_game": "7",
+        "assists_per_game": "8",
+        "win_shares": "112.5"
+    },
+    {
+        "name": "Lenny Wilkens",
+        "points_per_game": "16.5",
+        "rebounds_per_game": "4.7",
+        "assists_per_game": "6.7",
+        "win_shares": "95.5"
+    },
+    {
+        "name": "Dominique Wilkins",
+        "points_per_game": "24.8",
+        "rebounds_per_game": "6.7",
+        "assists_per_game": "2.5",
+        "win_shares": "117.5"
+    },
+    {
+        "name": "James Worthy",
+        "points_per_game": "17.6",
+        "rebounds_per_game": "5.1",
+        "assists_per_game": "3",
+        "win_shares": "81.2"
+    }
+]
