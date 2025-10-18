@@ -72,3 +72,35 @@ Responsive design principles
 Working with JSON-based datasets
 
 It showcases both data handling and front-end development skills, showing the full flow of how structured data can be prepared, processed, and displayed in an accessible way.
+
+## ⚙️ How to Run the Project
+
+This project uses JavaScript’s fetch() function to load data from a local JSON file (players.json).
+For security reasons, most browsers don’t allow loading local JSON files when opening index.html directly — so you’ll need to run a simple local server.
+
+## ✅ Option 1 — Run with VS Code Live Server (Recommended)
+
+Open the project folder in Visual Studio Code
+
+Install the Live Server extension (if you don’t already have it)
+
+Right-click index.html → “Open with Live Server”
+
+Your browser will open automatically at:
+
+http://127.0.0.1:5500/index.html
+
+
+You’ll see all 75 player cards load correctly.
+
+## ✅ Option 2 — Run with Python’s SimpleHTTPServer
+
+If you have Python 3 installed:
+
+python -m http.server
+
+
+Then visit:
+
+http://localhost:8000
+
