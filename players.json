@@ -210,13 +210,6 @@
         "win_shares": "131.7"
     },
     {
-        "name": "Player",
-        "points_per_game": "PTS",
-        "rebounds_per_game": "TRB",
-        "assists_per_game": "AST",
-        "win_shares": "WS"
-    },
-    {
         "name": "Elvin Hayes",
         "points_per_game": "21",
         "rebounds_per_game": "12.5",
@@ -425,13 +418,6 @@
         "rebounds_per_game": "7.5",
         "assists_per_game": "9.5",
         "win_shares": "189.2"
-    },
-    {
-        "name": "Player",
-        "points_per_game": "PTS",
-        "rebounds_per_game": "TRB",
-        "assists_per_game": "AST",
-        "win_shares": "WS"
     },
     {
         "name": "David Robinson",
